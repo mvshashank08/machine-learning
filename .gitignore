@@ -1,0 +1,23 @@
+# ignore datasets
+datasets/
+
+# ignore jupyter setup folder
+env/
+
+# ignore notes
+notes/
+
+#ignore poc
+poc/
+
+#ignore webstorm setup
+.idea/
+
+#ignore DS_Store
+.DS_Store
+
+# ignore notebook checkpoints
+.ipynb_checkpoints
+
+# ignore tensorflow logs
+tf_logs/
